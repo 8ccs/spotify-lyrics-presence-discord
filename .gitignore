@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+artifacts/
+.vs/
+*.user
+*.log
+*.suo
+settings.json
+lyrics-cache/
+*.lrc
+!tests/**/*.lrc
